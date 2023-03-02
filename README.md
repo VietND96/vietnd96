@@ -1,4 +1,5 @@
 ### Hi there 👋
+🔭 All my repositories are moved to [@vietnd96](../../../../vietnd96)
 
 <!--
 **ndviet/ndviet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
