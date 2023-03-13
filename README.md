@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 All my repositories are moved to [@vietnd96](../../../../vietnd96)
+🔭 All my repositories are moved to [@ndviet](../../../../ndviet)
 
 <!--
-**ndviet/ndviet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vietnd96/vietnd96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
