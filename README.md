@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Viet</h1>
-<h3 align="center">A passionate Software Quality Engineer</h3>
+<h1 align="left">Hi there 👋, I'm Viet Nguyen</h1>
+<h3 align="left">A passionate Software Quality Engineer</h3>
 
 - 🔭 I’m currently working at [TMA Tech Group](https://www.tma.vn)
 
