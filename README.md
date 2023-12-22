@@ -46,6 +46,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndviet&label=Profile%20views&color=0e75b6&style=flat" alt="ndviet" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vietnd96&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietnd96&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vietnd96&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
