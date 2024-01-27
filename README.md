@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Viet Nguyen</h1>
 <h3 align="left">A passionate Software Quality Engineer</h3>
 
-- 🔭 I’m currently working at [TMA Tech Group](https://www.tma.vn)
+- 🔭 I’m currently working at [TMA Tech Group](https://www.tmasolutions.vn/)
 
 - 🌱 I’m currently interested in **bringing DevOps tools and best practices into Test Automation to improve the efficiency and effectiveness of software testing processes**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **testing in general, test automation, CI/CD, DevOps tools**
 
-- 📫 How to reach me **viet.nguyen@ndviet.org / nguyenducviet4496@gmail.com**
+- 📫 How to reach me **nguyenducviet4496@gmail.com / viet.nguyen@ndviet.org**
 
 - 📄 Know about my experiences via [LinkedIn](https://www.linkedin.com/in/vietnd/)
 
