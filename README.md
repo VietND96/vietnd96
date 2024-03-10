@@ -47,3 +47,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vietnd96&label=Profile%20views&color=0e75b6&style=flat" alt="vietnd96" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vietnd96&include_all_commits=true"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vietnd96&layout=compact&hide_progress=true" alt="vietnd96"/>
