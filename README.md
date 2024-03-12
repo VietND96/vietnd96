@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **nguyenducviet4496@gmail.com / viet.nguyen@ndviet.org**
 
-- 📄 Know about my experiences via [LinkedIn](https://www.linkedin.com/in/vietnd/)
+- 📄 Know about my experiences via [LinkedIn](https://www.linkedin.com/in/vietnd96/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vietnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vietnd" height="30" width="40" /></a>
-<a href="https://fb.com/vietnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietnd" height="30" width="40" /></a>
-<a href="https://instagram.com/ndviet96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndviet96" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vietnd96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vietnd" height="30" width="40" /></a>
+<a href="https://fb.com/vietnd96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietnd" height="30" width="40" /></a>
+<a href="https://instagram.com/vietnd96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ndviet96" height="30" width="40" /></a>
 <a href="https://medium.com/@ndviet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndviet" height="30" width="40" /></a>
 <a href="https://dev.to/ndviet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ndviet" height="30" width="40" /></a>
 </p>
